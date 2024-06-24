@@ -22,6 +22,10 @@ Substack Blog - (https://t.co/pkwMy3Qtnk)
 
 🌱 I’m currently studing a Software Development course with Codespace | 2024. 
 
+...
+
+⚡ Fun fact: I'm experienced at Cattle🐂 production farming and management and ploughing and planting sunflowers🌱 on 100 hectar land.
+
 <!--
 **Puso90/Puso90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
