@@ -24,7 +24,7 @@ Substack Blog - (https://t.co/pkwMy3Qtnk)
 
 ...
 
-⚡ Fun fact: I'm experienced at Cattle🐂 production farming and management and ploughing and planting sunflowers🌱 on 100 hectar land.
+⚡ Fun fact: I'm experienced at Cattle🐂 production farming and management, ploughing and planting sunflowers🌱 on 100 hectar land.
 
 <!--
 **Puso90/Puso90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
