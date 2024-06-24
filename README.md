@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I am Puso Ramoroa!
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRLxhnsxBAq9op-CzDzmoYQ"> <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fgustavreagile">
+
+
 
 <!--
 **Puso90/Puso90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
