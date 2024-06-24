@@ -18,6 +18,10 @@ A digital marketer with photography skills and I am learning Software developmen
 
 Substack Blog - (https://t.co/pkwMy3Qtnk)
 
+...
+
+🌱 I’m currently studing a Software Development course with Codespace | 2024. 
+
 <!--
 **Puso90/Puso90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
