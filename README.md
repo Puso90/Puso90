@@ -8,10 +8,15 @@ A digital marketer with photography skills and I am learning Software developmen
 
 ...
 
-Toolbox
+🧰 Toolbox:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50" width="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50" width="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="150" width="150">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50" width="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50" width="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="80" width="80"> 
 
+...
+
+🗞️ Blog:
+
+Substack Blog - (https://t.co/pkwMy3Qtnk)
 
 <!--
 **Puso90/Puso90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
