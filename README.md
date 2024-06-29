@@ -1,8 +1,7 @@
 ## Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f402/512.gif" alt="🐂" width="32" height="32">, I am Puso Ramoroa!
 
-...
-
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRLxhnsxBAq9op-CzDzmoYQ"> <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fgustavreagile">
+📫
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRLxhnsxBAq9op-CzDzmoYQ">
 
 A digital marketer with photography skills and I am learning Software development as a student at Codespace.  I have worked in fields like News Agencies, Farming(Agriculture) and have been an entrepreneur of an online food platform called <a href="https://www.instagram.com/yourcater/">yourcater™<a/>.
 
