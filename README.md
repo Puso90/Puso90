@@ -1,6 +1,8 @@
 ## Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f402/512.gif" alt="🐂" width="32" height="32">, I am Puso Ramoroa!
+<div align-items:"center" justify-content="center">
+<b>Software developer from South Africa</b>
+</div>
 
-I'm digital marketer with photography skills and I am learning Software development as a student at Codespace.  I have worked in fields like News Agencies, Farming(Agriculture) and have been an entrepreneur of an online food platform called <a href="https://www.instagram.com/yourcater/">yourcater™<a/>.
 <br>
 <ul>
   <li>🌱 I’m currently studing a Software Development course with <b>Codespace</b> | 2024.</li>
