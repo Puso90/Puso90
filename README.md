@@ -1,32 +1,60 @@
 ## Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f402/512.gif" alt="🐂" width="32" height="32">, I am Puso Ramoroa!
-<div align-items:"center" justify-content="center">
-<b>Software developer from South Africa</b>
+<div flex center>
+<b>Software developer and Digital Architect from South Africa</b>
 </div>
 
 <br>
 <ul>
   <li>🌱 I’m currently studing a Software Development course with <b>Codespace</b> | 2024.</li>
   <li>⚡ <b>Fun fact:</b> I'm experienced at Cattle🐂 production farming and management, ploughing and planting sunflowers🌱 on 100 hectar land.</li>
+  <li>📫 Get In Touch: <a href= "mailto:pusoramoroa@yahoo.com"> pusoramoroa@yahoo.com </li>
 </ul>
 <br>
 
-📫 <h1>SOCIALS:</h1>
+<h1>Connect:</h1>
+<div flex>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</div>
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRLxhnsxBAq9op-CzDzmoYQ">
+<h1>Code:</h1>
+<div flex>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 
-...
+<h1>Design</h1>
+<div flex>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+</div>
 
-🧰 <h1>TOOLBOX:</h1>
+<h1>Writing:</h1>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50" width="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50" width="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="80" width="80"> 
+<h3><b>Substack</b></h3> Blog - (https://t.co/pkwMy3Qtnk)
 
+<h1>Cryptology</h1>
+<div flex>
+<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
+<img src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white">
+<img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white">
+<img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white">
+<img src="https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000">
+<img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF">
+</div>
 
-...
-
-🗞️ <h1>BLOG:</h1>
-
-<b>Substack</b> Blog - (https://t.co/pkwMy3Qtnk)
-
+<h1>Mind & Soul</h1>
+<div flex>
+<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white">
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</div>
 <!--
 **Puso90/Puso90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
