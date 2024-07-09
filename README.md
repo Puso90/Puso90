@@ -34,10 +34,6 @@
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
 </div>
 
-<h1>Writing:</h1>
-
-<h3><b>Substack</b></h3> Blog - (https://t.co/pkwMy3Qtnk)
-
 <h1>Cryptology</h1>
 <div flex>
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
