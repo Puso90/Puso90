@@ -6,7 +6,7 @@
 <br>
 <ul>
   <li>🌱 I’m currently studing a Software Development course with <b>Codespace</b> | 2024.</li>
-  <li>⚡ <b>Fun fact:</b> I'm experienced at Cattle🐂 production farming and management, ploughing and planting sunflowers🌱 on 100 hectar land.</li>
+  <li>⚡ <b>Fun fact:</b> I'm experienced at Cattle🐂 production farming and management, ploughing and planting sunflowers🌱 on 100 hectare land.</li>
   <li>📫 Get In Touch: <a href= "mailto:pusoramoroa@yahoo.com"> pusoramoroa@yahoo.com </li>
 </ul>
 <br>
