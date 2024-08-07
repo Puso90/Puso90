@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 
-<h1>Code:</h1>
+<h1>Code Skills:</h1>
 <div flex>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -29,30 +29,13 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<h1>Design:</h1>
+<h1>Design Skills:</h1>
 <div flex>
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
 </div>
 
-<h1>Cryptology:</h1>
-<div flex>
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
-<img src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white">
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
-<img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white">
-<img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white">
-<img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white">
-<img src="https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000">
-<img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF">
-</div>
-
-<h1>Mind & Soul:</h1>
-<div flex>
-<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-</div>
 <!--
 **Puso90/Puso90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
