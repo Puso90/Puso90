@@ -11,6 +11,15 @@
 </ul>
 <br>
 
+<h2>Education:</h2>
+<div col-3 >
+  <h3>Umuzi.org with Investec | 2016/17</h3>
+  <b>Management of technology innovation | NQF5<b/>
+
+  <h3>Midrand Graduate Institute</h3> | 2011/12</h3>
+  <b>BCom Law | 2nd Year<b/>
+</div>
+
 <h2>Connect:</h2>
 <div flex>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
