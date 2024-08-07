@@ -12,12 +12,12 @@
 <br>
 
 <h2>Education:</h2>
-<div col-3 >
+<div>
   <h3>Umuzi.org with Investec | 2016/17</h3>
-  <b>Management of technology innovation | NQF5<b/>
+  Management of technology innovation | NQF5
 
   <h3>Midrand Graduate Institute</h3> | 2011/12</h3>
-  <b>BCom Law | 2nd Year<b/>
+  BCom Law | 2nd Year
 </div>
 
 <h2>Connect:</h2>
