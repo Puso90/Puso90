@@ -14,7 +14,7 @@
 <h2>Education:</h2>
 <div>
   <h3>Umuzi.org with Investec | 2016/17</h3>
-  Management of technology innovation | NQF5
+  Management of technology innovation
 
   <h3>Codespace</h3> | 2024</h3>
   Software Development
