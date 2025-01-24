@@ -1,4 +1,7 @@
 ## Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f402/512.gif" alt="🐂" width="32" height="32">, I am Puso Ramoroa!
+
+<img w-full h-auto src="https://x.com/gustavreagile/header_photo" />
+
 <div flex center>
 <b>Software developer and Digital Architect from South Africa</b>
 </div>
