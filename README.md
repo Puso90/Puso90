@@ -1,6 +1,6 @@
 ## Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f402/512.gif" alt="🐂" width="32" height="32">, I am Puso Ramoroa!
 <div flex w-full h-auto>
-  <img size="50px" src="https://x.com/gustavreagile/header_photo" >
+  <img width="100%" height="auto" src="https://x.com/gustavreagile/header_photo" >
 </div>
 
 <div flex center>
