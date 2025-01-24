@@ -9,8 +9,7 @@
 
 <br>
 <ul>
-  <li>🌱 I’m currently studying a Software Development course with <b>Codespace</b> | 2024.</li>
-  <li>⚡ <b>Fun fact:</b> I'm experienced at Cattle🐂 production farming and management, ploughing and planting sunflowers🌱 on 100 hectare land.</li>
+  <li>🌱 I'm a software developer looking for new challanges to conquer</li>
   <li>📫 Get In Touch: <a href= "mailto:pusoramoroa@yahoo.com"> pusoramoroa@yahoo.com </li>
 </ul>
 <br>
