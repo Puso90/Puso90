@@ -9,8 +9,10 @@
 
 <br>
 <ul>
-  <li>🌱 I'm a software developer looking for new challanges to conquer</li>
+  <li>🌱 I'm a full-stack software developer looking for new challanges to conquer</li>
   <li>📫 Get In Touch: <a href= "mailto:pusoramoroa@yahoo.com"> pusoramoroa@yahoo.com </li>
+
+
 </ul>
 <br>
 
